@@ -1,0 +1,62 @@
+body {
+    background-image: url("images/IMG_6447.jpg");
+    background-size: cover;
+    height: 100vh;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.container{
+    max-width: 80%;
+    border: 3px solid #FFCFD2;
+    border-radius: 10px;
+    margin: auto;
+
+}
+
+h1 {
+    margin-top: 200px;
+    margin-bottom: 10px;
+    color:#FFCFD2;
+    text-shadow: 0 0 5px black;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color:#79C7C5;
+     text-shadow: 0 0 5px black;
+}
+p{
+    margin-top: 20px;
+    color:#FFCFD2;
+    text-shadow: 0 0 5px black;
+}
+
+button {
+    border: 3px solid black;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #2B2D42;
+    
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #79C7C5;
+}
+
+#save-btn {
+    background: #E7DFE8;
+}
+#save-el {
+
+    font-weight: bold;
+}
+
